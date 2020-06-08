@@ -1,3 +1,6 @@
+> 본 문서는 Notion을 기반으로 만들어진 문서입니다.
+> 원본으로 보고싶으신 분들은 [Notion 이력서](https://www.notion.so/About-dding-g-776f9cfa976147db9befff2dc15249ee) 를 참고해주세요.
+
 # About dding-g 
 <img src="./images/profile.jpg" width="200" height="200">
 
@@ -17,6 +20,7 @@
 🖊 Blog : [http://ddingg.tistory.com/](http://ddingg.tistory.com/)
 
 ✉ Email : area409@gmail.com
+
 
 ---
 
