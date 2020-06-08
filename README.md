@@ -78,10 +78,10 @@
   - 과학기술정보통신부, 교육부 주최 - 2020 학생 창업 유망팀 300에 창업 도전형 선발
 - 개발 부분
 
-회원가입, 로그인, 심박음 저장 및 조회 API 구현
-Docker를 활용해 DB와 Server가 독립적인 컨테이너에서 동작하도록 구현
-Travis-CI 를 연동하여 테스트 자동화 
-NoiseReducer 를 사용하여 심음 파일의 잡음 제거
+  - 회원가입, 로그인, 심박음 저장 및 조회 API 구현
+  - Docker를 활용해 DB와 Server가 독립적인 컨테이너에서 동작하도록 구현
+  - Travis-CI 를 연동하여 테스트 자동화 
+  - NoiseReducer 를 사용하여 심음 파일의 잡음 제거
 
 - Github
 
@@ -95,12 +95,12 @@ NoiseReducer 를 사용하여 심음 파일의 잡음 제거
 - 사용 기술 : Java, SpringBoot, Postgresql, Github
 - 개발 부분
 
-JPA를 활용하여 개발
-게시글 공유 기능 개발
-게시글 작성 및 카테고리 추가 기능 개발
-회원가입 및 로그인 기능 개발
-Database 설계에 참여
-Jenkins, Github를 활용해 AWS EC2에 배포
+  - JPA를 활용하여 개발
+  - 게시글 공유 기능 개발
+  - 게시글 작성 및 카테고리 추가 기능 개발
+  - 회원가입 및 로그인 기능 개발
+  - Database 설계에 참여
+  - Jenkins, Github를 활용해 AWS EC2에 배포
 
 - Github
 
@@ -116,15 +116,15 @@ Jenkins, Github를 활용해 AWS EC2에 배포
   - 전체 5개 팀 중 1등 수료
 - 개발 부분
 
-System Architecture, Procedure, Flow Chart, Data Structure 들을 설계 및 발표
-Google Map API를 활용하여 센서에서 측정한 대기오염도를 DB에 저장 및 Display
-로그인 및 회원 가입(Email로 verification) API 개발. 
-회원 탈퇴 및 비밀번호 변경 API 개발
-센서에서 측정한 대기 오염도 데이터를 저장/조회 할 수 있는 API 개발.
-안드로이드 GPS 데이터 실시간 저장 및 조회 API 개발.
-안드로이드에서 측정한 심박수 데이터 실시간 저장 및 조회 API 개발
-Google Map API, Google Chart, AM Chart, Apex Chart를 이용하여 데이터들을 Display
-웹 Front-end 화면 모두 구현 (사진 Github 참고)
+  - System Architecture, Procedure, Flow Chart, Data Structure 들을 설계 및 발표
+  - Google Map API를 활용하여 센서에서 측정한 대기오염도를 DB에 저장 및 Display
+  - 로그인 및 회원 가입(Email로 verification) API 개발. 
+  - 회원 탈퇴 및 비밀번호 변경 API 개발
+  - 센서에서 측정한 대기 오염도 데이터를 저장/조회 할 수 있는 API 개발.
+  - 안드로이드 GPS 데이터 실시간 저장 및 조회 API 개발.
+  - 안드로이드에서 측정한 심박수 데이터 실시간 저장 및 조회 API 개발
+  - Google Map API, Google Chart, AM Chart, Apex Chart를 이용하여 데이터들을 Display
+  - 웹 Front-end 화면 모두 구현 (사진 Github 참고)
 
 - Github
 
