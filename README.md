@@ -39,15 +39,15 @@
 
 - 2019.08 미국 UCSD Health-Related IoT Project 1등팀
 
-[2019 QI IoT Summer Project 후기](https://ddingg.tistory.com/24?category=845598)
+  - [2019 QI IoT Summer Project 후기](https://ddingg.tistory.com/24?category=845598)
 
 - 2019.09 강원도 아이디어 해커톤 대상
 
-[2019 강원 아이디어 해커톤 Github](https://github.com/dding-g/2019_Gangwon_IDEA_SW_HACKATHON)
+  - [2019 강원 아이디어 해커톤 Github](https://github.com/dding-g/2019_Gangwon_IDEA_SW_HACKATHON)
 
 - 2019.10 SW캡스톤디자인 결과발표회 은상
 
-[Tesseract_Korean_Converter Github](https://github.com/dding-g/Tesseract_Korean_Converter)
+  - [Tesseract_Korean_Converter Github](https://github.com/dding-g/Tesseract_Korean_Converter)
 
 - 2019.12 강원 ICT 경진대회 장려상 (강원대학교 SW사업단장 상)
 
@@ -85,7 +85,7 @@ NoiseReducer 를 사용하여 심음 파일의 잡음 제거
 
 - Github
 
-[2020-Hallym-Capstone-Design-Team-PHAS](https://github.com/2020-Hallym-Capstone-Design-Team-PHAS)
+  - [2020-Hallym-Capstone-Design-Team-PHAS](https://github.com/2020-Hallym-Capstone-Design-Team-PHAS)
 
 ### 📋 Temporage (2020.01 ~ 2020.02)
 
@@ -104,7 +104,7 @@ Jenkins, Github를 활용해 AWS EC2에 배포
 
 - Github
 
-[haneunjung/temporage-back](https://github.com/haneunjung/temporage-back)
+  - [haneunjung/temporage-back](https://github.com/haneunjung/temporage-back)
 
 ### 📋 미국 UCSD Health-Related IoT Project (2019.07 ~ 2019.08)
 
@@ -128,7 +128,7 @@ Google Map API, Google Chart, AM Chart, Apex Chart를 이용하여 데이터들�
 
 - Github
 
-[dding-g/Project_UCSD](https://github.com/dding-g/Project_UCSD)
+  - [dding-g/Project_UCSD](https://github.com/dding-g/Project_UCSD)
 
 ---
 
