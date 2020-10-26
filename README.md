@@ -38,19 +38,21 @@
 
 ## 🏆 수상 경력
 
-- 2019.08 미국 UCSD Health-Related IoT Project 1등팀
-
-  - [2019 QI IoT Summer Project 후기](https://ddingg.tistory.com/24?category=845598)
-
-- 2019.09 강원도 아이디어 해커톤 대상
-
-  - [2019 강원 아이디어 해커톤 Github](https://github.com/dding-g/2019_Gangwon_IDEA_SW_HACKATHON)
+- 2020.06 1학기 SW캡스톤 디자인 경진대회 2위 (한림대학교 SW사업단장 상)
+  - [2020 Hallym SW Capston Design - PHAS](https://github.com/2020-Hallym-Capstone-Design-Team-PHAS)
+  
+- 2019.12 강원 ICT 경진대회 장려상 (강원대학교 SW사업단장 상)
 
 - 2019.10 SW캡스톤디자인 결과발표회 은상
-
   - [Tesseract_Korean_Converter Github](https://github.com/dding-g/Tesseract_Korean_Converter)
+  
+- 2019.09 강원도 아이디어 해커톤 대상
+  - [2019 강원 아이디어 해커톤 Github](https://github.com/dding-g/2019_Gangwon_IDEA_SW_HACKATHON)
+ 
+- 2019.08 미국 UCSD Health-Related IoT Project 1등팀
+  - [2019 QI IoT Summer Project 후기](https://ddingg.tistory.com/24?category=845598)
 
-- 2019.12 강원 ICT 경진대회 장려상 (강원대학교 SW사업단장 상)
+- 2018.11 한림대학교 SW융합대학 해커톤 대상
 
 ---
 
