@@ -62,7 +62,11 @@
 
 ## 📌 Stack
 
-[기술 스택](https://www.notion.so/5be55ebdd8ef4a40aba0ea53e18fb1c8)
+- 📙 Language : Java, Javascript, SQL
+- 📕 Framework : Node.js, React, Spring Boot
+- 📔 Database : MongoDB, MySQL, Postgresql
+- 📘 OS : Centos, Ubuntu
+- 📗 etc : AWS, Docker, Github, HTML
 
 ---
 
